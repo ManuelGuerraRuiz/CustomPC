@@ -1,13 +1,13 @@
 {
   "/user": {
     "target": "https://custompc.onrender.com",
-    "secure": false,
+    "secure": true,
     "logLevel": "debug",
     "changeOrigin": true
   },
   "/login": {
     "target": "https://custompc.onrender.com",
-    "secure": false,
+    "secure": true,
     "logLevel": "debug",
     "changeOrigin": true
   }

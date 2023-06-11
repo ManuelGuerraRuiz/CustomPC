@@ -12,7 +12,7 @@ export class Login {
       email: email,
       pass: pass
     }
-    const url = '/login';
+    const url = 'https://custompc.onrender.com/login';
     console.log(datos);
     return this.http.post(url, datos);
   }

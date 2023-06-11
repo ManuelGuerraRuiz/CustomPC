@@ -9,7 +9,7 @@ export class Register {
 
   public postUser(datos: any) {
     //const url = 'http://localhost:3000/user';
-    const url = '/user';
+    const url = 'https://custompc.onrender.com/user';
 
     console.log(datos);
     return this.http.post(url, datos);
