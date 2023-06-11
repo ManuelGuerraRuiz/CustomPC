@@ -1,12 +1,12 @@
 {
   "/user": {
-    "target": "http://localhost:3000",
+    "target": "https://custompc.onrender.com",
     "secure": false,
     "logLevel": "debug",
     "changeOrigin": true
   },
   "/login": {
-    "target": "http://localhost:3000",
+    "target": "https://custompc.onrender.com",
     "secure": false,
     "logLevel": "debug",
     "changeOrigin": true
